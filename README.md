@@ -1,5 +1,4 @@
 # Lab-Exercise---5---Rail-fence
-# Lab-Exercise---5---Rail-fence
 # Aim:
 To develop a simple C program to implement Rail Fence Cipher.
 
